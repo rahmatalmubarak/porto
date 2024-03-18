@@ -1,21 +1,21 @@
 export const Social_Icons = [
   {
-    link: "https://github.com/ibrahimmemonn",
+    link: "https://github.com/rahmatalmubarak",
     image: "/Github.svg",
     alt: "Github",
   },
   {
-    link: "https://www.instagram.com/ibii.memon/?hl=en",
+    link: "",
     image: "/Instagram.svg",
     alt: "Instagram",
   },
   {
-    link: "https://www.linkedin.com/in/ibrahimmemonn/",
+    link: "https://www.linkedin.com/in/rahmat-almubarak-1b9595225/",
     image: "/LinkedIn.svg",
     alt: "LinkedIn",
   },
   {
-    link: "https://twitter.com/Ibrahimmemonnn",
+    link: "",
     image: "/Twitter.svg",
     alt: "Twitter",
   },

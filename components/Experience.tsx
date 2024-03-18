@@ -12,30 +12,19 @@ const Experience: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-gray-300 ">
-            <span className="font-semibold">WebHR /</span> Software Engineer
+            <span className="font-semibold"> Software Engineer</span>
           </p>
-          <p className="text-gray-300">MAY 2022 - PRESENT, HYDERABAD</p>
+          <p className="text-gray-300">February 2021 - PRESENT, HYDERABAD</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
-          based Social HR Software for SMEs by Verge Systems Inc. WebHR is
-          currently used in over 160 countries world wide by thousands of
-          organizations to manage HR, As a React.js developer with 1.5 year of
-          experience, I have a strong foundation in creating dynamic and
-          responsive mobile and web applications.
+          Welcome to my web developer portfolio! I'm Rahmat Almubarak, a passionate and skilled web developer with 2 years of experience in creating dynamic and user-friendly websites and web applications. With a strong background in back-end development, I specialize in crafting elegant and responsive solutions that meet the unique needs of my clients.
           <br />
           <br />
-          My experience with React Native has allowed me to develop
-          cross-platform mobile applications that run seamlessly on both iOS and
-          Android platforms. Additionally, my proficiency in React.js has
-          equipped me with the skills to create fast, scalable, and dynamic web
-          pages with excellent user experiences. I have a deep understanding of
-          component-based architecture and state management, and I am
-          well-versed in the latest web development trends and technologies.
+          Browse through my portfolio to discover the innovative solutions I've created for clients across various industries. If you're interested in working together or have any questions, feel free to get in touch. I look forward to collaborating with you to turn your ideas into reality and achieve your online goals!
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React Native
+            Laravel
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             React
@@ -44,7 +33,7 @@ const Experience: React.FC<{}> = () => {
             JavaScript
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Typescript
+            PHP
           </div>
         </div>
       </div>

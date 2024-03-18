@@ -10,11 +10,11 @@ export const metadata: Metadata = {
   metadataBase: new URL(
     "https://developer-portfolio-ibrahim-memons-projects.vercel.app"
   ),
-  title: "Ibrahim Portfolio",
-  description: "Developer Portfolio By Ibrahim Memon",
-  keywords: ["Developer", "Portfolio", "Developer Portflio", "Ibrahim Memon"],
+  title: "Rahmat Almubarak",
+  description: "Developer Portfolio By Rahmat Almubarak",
+  keywords: ["Developer", "Portfolio", "Developer Portflio", "Rahmat Almubarak"],
   openGraph: {
-    title: "Ibrahim Memon",
+    title: "Rahmat Almubarak",
     description: "Software Engineer",
     images: "/OpenGraph.jpg",
   },
