@@ -17,10 +17,10 @@ const Experience: React.FC<{}> = () => {
           <p className="text-gray-300">February 2021 - PRESENT, HYDERABAD</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Welcome to my web developer portfolio! I'm Rahmat Almubarak, a passionate and skilled web developer with 2 years of experience in creating dynamic and user-friendly websites and web applications. With a strong background in back-end development, I specialize in crafting elegant and responsive solutions that meet the unique needs of my clients.
+          Welcome to my web developer portfolio! Im Rahmat Almubarak, a passionate and skilled web developer with 2 years of experience in creating dynamic and user-friendly websites and web applications. With a strong background in back-end development, I specialize in crafting elegant and responsive solutions that meet the unique needs of my clients.
           <br />
           <br />
-          Browse through my portfolio to discover the innovative solutions I've created for clients across various industries. If you're interested in working together or have any questions, feel free to get in touch. I look forward to collaborating with you to turn your ideas into reality and achieve your online goals!
+          Browse through my portfolio to discover the innovative solutions Ive created for clients across various industries. If youre interested in working together or have any questions, feel free to get in touch. I look forward to collaborating with you to turn your ideas into reality and achieve your online goals!
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
