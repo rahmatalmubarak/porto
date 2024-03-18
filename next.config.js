@@ -2,7 +2,7 @@
 const nextConfig = {
     output: 'export',
     reactStrictMode: true,
-    distDir: 'porto',
+    basePath: 'porto',
 };
 
 module.exports = nextConfig;
