@@ -10,7 +10,7 @@ const Banner: React.FC<{}> = () => {
         <div className="justify-center flex ">
           <Image
             priority
-            src="/Me.png"
+            src="Me.png"
             height={300}
             width={300}
             alt="Rahmat Almubarak"
